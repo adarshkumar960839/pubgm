@@ -11,8 +11,8 @@ bot = telebot.TeleBot('8028571288:AAEBfwwTIL2vOaQA1Y9JXJ1mg_FNhNmjdrc')
 
 # GROUP AND CHANNEL DETAILS
 GROUP_ID = "-1002546621996"
-CHANNEL_USERNAME = "@adarsh91101", "@adarsh91101"
-SCREENSHOT_CHANNEL = "@adarsh91101", "@adarsh91101"
+CHANNEL_USERNAME = "@adarsh7bgmi", "@adarhscreen"
+SCREENSHOT_CHANNEL = "@adarshscreenshotyt", "@adarsh6screenshot"
 ADMINS = [6460304861]
 
 # GLOBAL VARIABLES
